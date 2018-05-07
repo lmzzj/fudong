@@ -1,0 +1,7 @@
+a {
+	color: green;
+	line-height: 39px;
+}
+a:hover{
+	color: red;
+}
